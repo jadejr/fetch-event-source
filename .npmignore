@@ -1,7 +1,6 @@
 .github/
 .nyc_output/
 coverage/
-lib/*.map
 lib/*.spec.*
 src/
 .nycrc
